@@ -1,3 +1,3 @@
 # Custom-Star-Image-Generation-using-DCGAN-and-OpenCV
 ![star image](https://github.com/Dherya27/Custom-Star-Image-Generation-using-DCGAN-and-OpenCV/blob/main/generated_stars.jpeg)
-#### Generator latent space has significant role here to produce the feature map to feed into the discriminator pipeline.
+The latent space of the generator plays a significant role in producing the feature map that is fed into the discriminator pipeline.
